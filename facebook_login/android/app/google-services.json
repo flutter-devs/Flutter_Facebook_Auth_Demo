@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "115144527631",
+    "firebase_url": "https://doctorpoint-f19cf.firebaseio.com",
+    "project_id": "doctorpoint-f19cf",
+    "storage_bucket": "doctorpoint-f19cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115144527631:android:c596a50a8fdfb851ddb87a",
+        "android_client_info": {
+          "package_name": "com.example.www.doctorspoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115144527631-f4pbfl9bmn80tqdks5o3ia6h4ta84rhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbJqTvYdNsRABO1_wOhJlpjsqfXAlJUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115144527631-f4pbfl9bmn80tqdks5o3ia6h4ta84rhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115144527631-r9hkmrbt2rk6rh6r28pdusg45fci3o16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.www.doctorspoint"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115144527631:android:15fd1f71f495e539ddb87a",
+        "android_client_info": {
+          "package_name": "com.example.www.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115144527631-f4pbfl9bmn80tqdks5o3ia6h4ta84rhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbJqTvYdNsRABO1_wOhJlpjsqfXAlJUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115144527631-f4pbfl9bmn80tqdks5o3ia6h4ta84rhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115144527631-r9hkmrbt2rk6rh6r28pdusg45fci3o16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.www.doctorspoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
